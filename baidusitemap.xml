@@ -4,39 +4,25 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/04/25/testpage/</loc>
-    <lastmod>2018-04-25T12:30:33.893Z</lastmod>
+    <loc>http://yoursite.com/2018/04/25/machine-learning-train-trick/</loc>
+    <lastmod>2018-04-25T13:26:29.925Z</lastmod>
     <data>
         <display>
-        <title>testpage</title>
-        <pubTime>2018-04-25T12:29:43.000Z</pubTime>
+        <title>machine-learning-train-trick</title>
+        <pubTime>2018-04-25T13:23:38.000Z</pubTime>
         
         <tag>machine learning</tag>
-         
-        <tag>linux</tag>
          
          
            
              
-              <breadCrumb title="experience" url="http://yoursite.com/categories/experience/"/>
+              <breadCrumb title="Knowledge" url="http://yoursite.com/categories/Knowledge/"/>
           
         </display>
     </data>
     </url>
 
     
-  <url>
-    <loc>http://yoursite.com/2018/04/23/hello-world/</loc>
-    <lastmod>2018-04-23T10:31:07.294Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-04-23T10:31:07.294Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
+    
+    
 </urlset>
