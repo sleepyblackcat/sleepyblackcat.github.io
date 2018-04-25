@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-25T13:26:29.925Z</updated>
+  <updated>2018-04-25T13:29:49.913Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>machine-learning-train-trick</title>
+    <title>神经网络训练trick记录</title>
     <link href="http://yoursite.com/2018/04/25/machine-learning-train-trick/"/>
     <id>http://yoursite.com/2018/04/25/machine-learning-train-trick/</id>
     <published>2018-04-25T13:23:38.000Z</published>
-    <updated>2018-04-25T13:26:29.925Z</updated>
+    <updated>2018-04-25T13:29:49.913Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="神经网络训练trick记录"><a href="#神经网络训练trick记录" class="headerlink" title="神经网络训练trick记录"></a>神经网络训练trick记录</h1><p>1.Adam通常情况下的超参数：<br>beta1(动量):0.9<br>beta2(AdaGrad):0.999<br>lr:1e-3~5e-4</p><p>2.lr在指数空间均匀采样进行搜索比较合理<br>因为lr乘以梯度，所以对乘法形式下的空间搜索更为合理<br>例如对10\^-3~10\^-6中[3,6]进行均匀采样而不是对整体数值进行均匀采样</p><p>3.finetune初始lr可以设置为1/10，直接从框架的model zoo中下载pretrained model</p>]]></content>
+    <content type="html"><![CDATA[<p>1.Adam通常情况下的超参数：<br>beta1(动量):0.9<br>beta2(AdaGrad):0.999<br>lr:1e-3~5e-4</p><p>2.lr在指数空间均匀采样进行搜索比较合理<br>因为lr乘以梯度，所以对乘法形式下的空间搜索更为合理<br>例如对10\^-3~10\^-6中[3,6]进行均匀采样而不是对整体数值进行均匀采样</p><p>3.finetune初始lr可以设置为1/10，直接从框架的model zoo中下载pretrained model</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;神经网络训练trick记录&quot;&gt;&lt;a href=&quot;#神经网络训练trick记录&quot; class=&quot;headerlink&quot; title=&quot;神经网络训练trick记录&quot;&gt;&lt;/a&gt;神经网络训练trick记录&lt;/h1&gt;&lt;p&gt;1.Adam通常情况下的超参数：&lt;br&gt;beta1(
+        &lt;p&gt;1.Adam通常情况下的超参数：&lt;br&gt;beta1(动量):0.9&lt;br&gt;beta2(AdaGrad):0.999&lt;br&gt;lr:1e-3~5e-4&lt;/p&gt;
+&lt;p&gt;2.lr在指数空间均匀采样进行搜索比较合理&lt;br&gt;因为lr乘以梯度，所以对乘法形式下的空间搜索更为合理&lt;br&gt;例
       
     
     </summary>
